@@ -1,0 +1,6 @@
+../Inc/system_stm32f4xx.h:131:20:DelayMs	2
+../Src/led.c:10:6:SET_LED	1
+../Src/led.c:19:6:ON	1
+../Src/led.c:23:6:OFF	1
+../Src/led.c:27:6:blink	1
+../Src/led.c:32:6:ledtoggle	1
